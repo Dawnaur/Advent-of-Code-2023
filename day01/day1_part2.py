@@ -5,7 +5,7 @@
 #                                                         :::      ::::::::    #
 #    day1_part2.py                                      :+:      :+:    :+:    #
 #                                                     +:+ +:+         +:+      #
-#    By: Dawnaur <dawnaur@outlook.fr>               +#+  +:+       +#+         #
+#    By: Dawnaur <dawnaur@42l.fr>                   +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/12/01 06:22:52 by Dawnaur           #+#    #+#              #
 #    Updated: 2023/12/01 07:01:12 by Dawnaur          ###   ########.fr        #
